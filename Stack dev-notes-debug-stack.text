@@ -1,0 +1,11 @@
+Stack dev-notes-debug-stack
+  Status: deployed
+  Outputs:
+    BucketArn: arn:aws:s3:::dev-notes-debug-stack-bucket83908e77-ene017g5fqde
+    BucketName: dev-notes-debug-stack-bucket83908e77-ene017g5fqde
+    Endpoint: wss://i7qayy5477.execute-api.us-east-1.amazonaws.com/dev
+
+    Stack dev-notes-my-stack
+  Status: deployed
+  Outputs:
+    ApiEndpoint: https://5s79mll5gb.execute-api.us-east-1.amazonaws.com
